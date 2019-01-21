@@ -1,0 +1,1 @@
+gcc -o main main.c fileOp.c interfaces.c produto.c && ./main

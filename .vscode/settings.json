@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "fileop.h": "c",
+        "main.h": "c"
+    }
+}
